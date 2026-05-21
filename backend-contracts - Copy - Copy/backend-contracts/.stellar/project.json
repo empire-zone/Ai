@@ -1,0 +1,12 @@
+{
+  "name": "govlens-contract",
+  "version": "0.1.0",
+  "description": "GovLens AI - DAO Governance Smart Contract on Stellar",
+  "license": "MIT",
+  "networks": {
+    "testnet": {
+      "rpc_url": "https://soroban-testnet.stellar.org:443",
+      "network_passphrase": "Test SDF Network ; September 2015"
+    }
+  }
+}
